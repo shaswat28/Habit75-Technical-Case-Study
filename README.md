@@ -1,6 +1,6 @@
 # Habit75: A Data-Driven 75-Day Challenge Tracker
 
-**Habit75** is a high-performance iOS application designed to quantify the "75-Day Challenge". By bridging the gap between qualitative user logs and quantitative biometric sensor data, the app provides a unified dashboard for longitudinal habit analysis.
+**Habit75** is an iOS application designed to quantify the "75-Day Challenge". By bridging the gap between qualitative user logs and quantitative biometric sensor data, the app provides a unified dashboard for longitudinal habit analysis.
 
 ## Project Overview
 
