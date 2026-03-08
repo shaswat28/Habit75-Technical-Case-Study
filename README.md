@@ -71,7 +71,7 @@ A comprehensive audit trail of every day in the challenge.
 
 ---
 
-## 📄 Support & Documentation
+## Support & Documentation
 
 For technical inquiries or support, please refer to our [Support Gist](https://www.google.com/search?q=https://gist.github.com/shaswat28).
 
