@@ -73,6 +73,6 @@ A comprehensive audit trail of every day in the challenge.
 
 ## Support & Documentation
 
-For technical inquiries or support, please refer to our [Support Gist](https://www.google.com/search?q=https://gist.github.com/shaswat28).
+For technical inquiries or support, please refer to our [Support Gist](https://gist.githubusercontent.com/shaswat28/892f5e6c3cc4393107b4794585ec7a66/raw/a83a354b2e115caecd103c5b35a285ac51f749e6/Support%2520Habit75).
 
 **Developed by Shaswat Sharma**
